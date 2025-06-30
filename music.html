@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body class="bg-light">
+
+    <!-- Навигационная панель -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Music</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="more.html" target="_blank">Learn More</a></li>
+                    <li class="nav-item"><a class="nav-link" href="registration.html" target="_blank">Registration</a></li>
+                    <li class="nav-item"><a class="nav-link" href="login.html" target="_blank">Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Форма выбора музыканта -->
+    <div class="container mt-5">
+        <h1 class="text-center mb-4">Choose Your Musician</h1>
+        <form id="musicForm" class="p-4 shadow-lg bg-white rounded">
+            
+            <div class="mb-3">
+                <label for="year" class="form-label">Year</label>
+                <input type="number" id="year" class="form-control" min="2000" max="2020" step="5" value="2000">                
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Genre</label>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="Genre" id="genr1" value="Blues/Jazz">
+                    <label class="form-check-label" for="genr1">Blues/Jazz</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="Genre" id="genr2" value="Electronic music">
+                    <label class="form-check-label" for="genr2">Electronic Music</label>
+                </div>
+                <div class="form-check">
+                    <input type="radio" class="form-check-input" name="Genre" id="genr3" value="Hip-hop">
+                    <label class="form-check-label" for="genr3">Hip-hop</label>
+                </div>
+            </div>
+
+            <div class="mb-3">
+                <label for="country" class="form-label">Part of the World</label>
+                <select id="country" class="form-select">
+                    <option value="America">America</option>
+                    <option value="Europe">Europe</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Find Musician</button>
+        </form>
+    </div>
+
+    <script src="artist_info.js"></script>
+</body>
+</html>

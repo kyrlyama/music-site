@@ -1,0 +1,29 @@
+Полученные параметры: {"year":"2000","genre":"electronic music","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"electronic music","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"electronic music","country":"America"}
+Полученные параметры: {"year":"2000","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2000","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2000","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2000","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"Europe"}
+Полученные параметры: {"year":"2000","genre":"electronic music","country":"Europe"}
+Полученные параметры: {"year":"2005","genre":"electronic music","country":"Europe"}
+Полученные параметры: {"year":"2010","genre":"electronic music","country":"Europe"}
+Полученные параметры: {"year":"2005","genre":"hip-hop","country":"Europe"}
+Полученные параметры: {"year":"2010","genre":"hip-hop","country":"Europe"}
+Полученные параметры: {"year":"2015","genre":"hip-hop","country":"Europe"}
+Полученные параметры: {"year":"2020","genre":"hip-hop","country":"Europe"}
+Полученные параметры: {"year":"2020","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2015","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2020","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2015","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2010","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2005","genre":"hip-hop","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"blues\/jazz","country":"America"}
+Полученные параметры: {"year":"2000","genre":"electronic music","country":"America"}
+Полученные параметры: {"year":"2020","genre":"blues\/jazz","country":"America"}
